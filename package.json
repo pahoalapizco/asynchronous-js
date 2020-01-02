@@ -4,7 +4,8 @@
   "description": "Examples to unuderstand the asynchronous in javascript",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "callback": "node src/callback/challenge.js",
+    "cb:test": "node src/callback/index.js"
   },
   "author": "pahoalapizco",
   "license": "MIT",
